@@ -1,10 +1,10 @@
-[![GitHub issues](https://img.shields.io/github/issues/layerqa/aiopayok?style=for-the-badge)](https://github.com/layerqa/aiopayok/issues)
-[![GitHub license](https://img.shields.io/github/license/layerqa/aiopayok?style=for-the-badge)](https://github.com/layerqa/aiopayok/blob/main/LICENSE)
-[![PyPI](https://img.shields.io/pypi/v/aiopayok?style=for-the-badge)](https://pypi.org/project/aiopayok/)
+[![GitHub issues](https://img.shields.io/github/issues/bazzzilius/aiopayok?style=for-the-badge)](https://github.com/bazzzilius/aiopayok/issues)
+[![GitHub license](https://img.shields.io/github/license/bazzzilius/aiopayok?style=for-the-badge)](https://github.com/bazzzilius/aiopayok/blob/main/LICENSE)
+[![PyPI old](https://img.shields.io/pypi/v/aiopayok?style=for-the-badge)](https://pypi.org/project/aiopayok/)
 ## AIOPayok
 
->payok.io asynchronous python wrapper
-
+>payok.io asynchronous python wrapper <br>
+>The original project was abandoned, which is why I hope you will support a copy of it.
 ``` python
 import asyncio
 
