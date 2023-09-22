@@ -1,11 +1,11 @@
 [tool.poetry]
 name = "aiopayok"
-version = "0.2.1"
+version = "0.2.2"
 description = "payok.io asynchronous python wrapper"
-authors = ["layerqa"]
+authors = ["layerqa", "BazZziliuS"]
 license = "GPL-3.0-only"
 readme = "README.md"
-repository = "https://github.com/layerqa/aiopayok"
+repository = "https://github.com/bazzzilius/aiopayok"
 documentation = "https://payok.io/cabinet/documentation/doc_main.php"
 keywords = [
     "payok",
