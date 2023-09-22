@@ -1,6 +1,6 @@
 [![GitHub issues](https://img.shields.io/github/issues/bazzzilius/aiopayok?style=for-the-badge)](https://github.com/bazzzilius/aiopayok/issues)
 [![GitHub license](https://img.shields.io/github/license/bazzzilius/aiopayok?style=for-the-badge)](https://github.com/bazzzilius/aiopayok/blob/main/LICENSE)
-[![PyPI old](https://img.shields.io/pypi/v/aiopayok?style=for-the-badge)](https://pypi.org/project/aiopayok/)
+[![PyPI](https://img.shields.io/pypi/v/aiopayok-community-edition?style=for-the-badge)](https://pypi.org/project/aiopayok-community-edition/)
 ## AIOPayok
 
 >payok.io asynchronous python wrapper <br>
@@ -24,7 +24,7 @@ asyncio.run(main())
 ### Installing
 
 ``` bash
-pip install aiopayok
+pip install aiopayok-community-edition
 ```
 
 ### Resources
