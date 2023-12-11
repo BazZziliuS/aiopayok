@@ -15,10 +15,10 @@ keywords = [
 
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = ">=3.8"
 aiohttp = "^3.8.1"
-certifi = "^2022.5.18"
-pydantic = "^1.9.1"
+certifi = ">=2022.5.18"
+pydantic = ">=1.9.1"
 
 [tool.poetry.dev-dependencies]
 
